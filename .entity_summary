@@ -1,0 +1,1 @@
+- Benutzer & Rollen (benutzer_&_rollen): vorname[string/text], nachname[string/text], email[string/email], telefon[string/tel], rolle[lookup/select], abteilung[string/text], notizen[string/textarea], aktiv[bool]
